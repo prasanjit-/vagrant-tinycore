@@ -1,7 +1,7 @@
 vagrant-tinycore
 ================
 
-A tinycore Linux box for Vagrant.
+A tinycore Linux box for Vagrant. For testing small vagrant based instance.
 
 ##Usage on Windows
 You will need to install vagrant 1.6.5 or greater installed, and virtualbox.
@@ -12,7 +12,7 @@ vagrant box add --name tinycore tinycore.box
 vagrant up
 ```
 
-##Usage on Linux
+##Usage on Ubuntu Linux
 You will need to install vagrant 1.6.5 or greater and libvirt. From a command
 prompt, do the following (instructions for ubuntu):
 ```
